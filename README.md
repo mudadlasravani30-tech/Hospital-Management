@@ -97,6 +97,7 @@ Enter Age: 25
 Enter Disease: Fever
 
 Patient added successfully!
+
 Conclusion
 
 The Hospital Management System in C is a simple yet powerful project that demonstrates how real-life hospital data can be stored and managed using structured programming techniques. It is an excellent project for beginners learning data handling, structures, menu design, and file operations in C.
