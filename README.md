@@ -1,5 +1,4 @@
 # Hospital-Management
-Hospital Management System project in C
 Project Description – Hospital Management System in C
 
 The Hospital Management System is a C-based console application designed to simplify and organize hospital operations. It allows users to add, store, search, and view patient records, along with optional modules like doctor information and appointment scheduling. The system demonstrates core programming concepts such as structures, arrays, file handling, functions, and menu-driven programs. This project helps simulate a real-world hospital environment where patient data must be managed efficiently and securely.
