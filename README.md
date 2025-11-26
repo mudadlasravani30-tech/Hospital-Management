@@ -83,20 +83,15 @@ Once the program runs, you will see a menu like:
 
 Enter the corresponding number to perform each action.
 
-Expected Output Example
-===== Hospital Management System =====
-1. Add Patient
-2. View Patients
-3. Search Patient
-4. Exit
-Enter your choice: 1
+Output
+![Screenshot](https://github.com/user-attachments/assets/41a944a5-15df-45cc-9eb2-8b92335af1cd)
+![Screenshot](https://github.com/user-attachments/assets/581ab710-5430-411f-9d0e-4bd289f6c3d3)
+![Screenshot](https://github.com/user-attachments/assets/138ca7df-6f81-4091-b760-beb3f88bebea)
+![Screenshot](https://github.com/user-attachments/assets/7093f99e-90c0-4bd4-a334-569bdacdfede)
 
-Enter Patient ID: 101
-Enter Name: Rohan
-Enter Age: 25
-Enter Disease: Fever
 
-Patient added successfully!
+
+
 
 Conclusion
 
