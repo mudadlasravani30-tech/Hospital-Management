@@ -83,17 +83,12 @@ Once the program runs, you will see a menu like:
 
 Enter the corresponding number to perform each action.
 
-Output
-![Screenshot](https://github.com/user-attachments/assets/41a944a5-15df-45cc-9eb2-8b92335af1cd)
+Output:
+
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f0c2c459-9b09-45fd-a75b-ca089c13679b" />
-
-![Screenshot](https://github.com/user-attachments/assets/581ab710-5430-411f-9d0e-4bd289f6c3d3)
-![Screenshot](https://github.com/user-attachments/assets/138ca7df-6f81-4091-b760-beb3f88bebea)
-![Screenshot](https://github.com/user-attachments/assets/7093f99e-90c0-4bd4-a334-569bdacdfede)
-
-
-
-
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/581ab710-5430-411f-9d0e-4bd289f6c3d3" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/138ca7df-6f81-4091-b760-beb3f88bebea" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7093f99e-90c0-4bd4-a334-569bdacdfede" />
 
 Conclusion
 
